@@ -5,3 +5,4 @@
 4-listmorefiles: this script lists files in a directory in long format including hidden files
 5-listfilesdigitonly: this script lists all files in a directory including hidden ones with the group ids
 6-firstdirectory: this script creates a directory in the /tmp directory
+7-movethatfile: this script moves the file 'betty' into the 'my_first_directory' directory
