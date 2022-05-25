@@ -29,3 +29,5 @@
 14-copy_html: this script copies HTML files from the current dir to the parent dir and updates that of the parent dir if it exists
 
 100-lets_move: this script moves files that begin with uppercase to /tmp/u
+
+101-clean_emacs: this script deletes all files that end with ~
