@@ -31,3 +31,6 @@
 100-lets_move: this script moves files that begin with uppercase to /tmp/u
 
 101-clean_emacs: this script deletes all files that end with ~
+
+102-tree: this script creates the directories with the appropriate parent directories
+
