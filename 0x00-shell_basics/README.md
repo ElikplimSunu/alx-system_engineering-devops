@@ -34,3 +34,4 @@
 
 102-tree: this script creates the directories with the appropriate parent directories
 
+103-commas: this script lists, orders and separates each item with a comma
