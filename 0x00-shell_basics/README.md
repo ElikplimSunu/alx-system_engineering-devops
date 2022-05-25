@@ -12,3 +12,4 @@
 11-lists: this lists the files and directories in the current, parent and /boot directory
 12-file_type: this script prints out the type of the file 'iamafile' located in /tmp
 13-symbolic_link: this script creates a symbolic link to the file /bin/ls names __ls__
+14-copy_html: this script copies HTML files from the current dir to the parent dir and updates that of the parent dir if it exists
