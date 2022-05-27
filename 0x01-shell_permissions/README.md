@@ -6,4 +6,5 @@ __2-groups:__ This script displays all the groups the current user is part of.
 __3-new_owner:__ This script changes owner of the file _hello_ to **betty**.  
 __4-empty:__ This script creates an empty file called _hello_.  
 __5-execute:__ This script adds execute command to the owner of the file _hello_.  
-__6-multiple_permissions:__ This script adds execute permission to the owner and group owner of file _hello_.
+__6-multiple_permissions:__ This script adds execute permission to the owner and group owner of file _hello_.  
+__7-everybody:__ This script adds execute permission to every user.
