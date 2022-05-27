@@ -8,5 +8,6 @@ __4-empty:__ This script creates an empty file called _hello_.
 __5-execute:__ This script adds execute command to the owner of the file _hello_.  
 __6-multiple_permissions:__ This script adds execute permission to the owner and group owner of file _hello_.  
 __7-everybody:__ This script adds execute permission to every user.  
-__8-James_Bond__: This script sets _hello_ file's permission to 007 _(pretty clever, huh?)_.  
-__9-John_Doe__: This script set _hello_ file's permission to 753.
+__8-James_Bond:__ This script sets _hello_ file's permission to 007 _(pretty clever, huh?)_.  
+__9-John_Doe:__ This script set _hello_ file's permission to 753.  
+__10-mirror_permissions:__ This script copies the permissions for file _olleh_ to file _hello_.
