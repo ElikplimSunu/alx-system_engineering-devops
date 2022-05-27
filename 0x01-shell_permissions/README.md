@@ -14,4 +14,5 @@ __10-mirror_permissions:__ This script copies the permissions for file _olleh_ t
 __11-directories_permissions:__ This script adds execute permission to only subdirectories of the current directory.  
 __12-directory_permissions:__ This script creates a directory with a set of permissions.  
 __13-change_group:__ This script changes the group owner of the file _hello_ to *school*.  
-__100-change_owner_and_group:__ This script changes the owner and group of all files to _vincent_ and _staff_ respectively.
+__100-change_owner_and_group:__ This script changes the owner and group of all files to _vincent_ and _staff_ respectively.  
+__101-symbolic_link_permissions:__ This script changes the owner and group of the symbolic link file *_hello*
