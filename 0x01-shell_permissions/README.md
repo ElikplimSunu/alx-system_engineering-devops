@@ -12,4 +12,5 @@ __8-James_Bond:__ This script sets _hello_ file's permission to 007 _(pretty cle
 __9-John_Doe:__ This script set _hello_ file's permission to 753.  
 __10-mirror_permissions:__ This script copies the permissions for file _olleh_ to file _hello_.  
 __11-directories_permissions:__ This script adds execute permission to only subdirectories of the current directory.  
-__12-directory_permissions:__ This script creates a directory with a set of permissions.
+__12-directory_permissions:__ This script creates a directory with a set of permissions.  
+__13-change_group:__ This script changes the group owner of the file _hello_ to *school*.
