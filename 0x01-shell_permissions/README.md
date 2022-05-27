@@ -16,4 +16,5 @@ __12-directory_permissions:__ This script creates a directory with a set of perm
 __13-change_group:__ This script changes the group owner of the file _hello_ to *school*.  
 __100-change_owner_and_group:__ This script changes the owner and group of all files to _vincent_ and _staff_ respectively.  
 __101-symbolic_link_permissions:__ This script changes the owner and group of the symbolic link file *_hello*  
-__102-if_only:__ This script changs the owner based on the current owner.
+__102-if_only:__ This script changs the owner based on the current owner.  
+__103-Star_Wars:__ This script plays the **StarWars IV** episode in the terminal.
