@@ -15,4 +15,6 @@ __5-firstlines:__ this script prints the first 10 lines of /etc/passwd
 
 __6-third_line:__ this script prints the 3rd line of the file /etc/passwd.  
 
-__8-cwd_state:__ this script prints the results of ls -la into a file.
+__8-cwd_state:__ this script prints the results of ls -la into a file.  
+
+__9-duplicate_last_line:__ this script duplicates the last line of file _iacta_.
