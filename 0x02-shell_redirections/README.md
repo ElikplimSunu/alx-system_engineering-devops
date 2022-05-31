@@ -21,6 +21,9 @@ __9-duplicate_last_line:__ this script duplicates the last line of file _iacta_.
 
 __10-no_more_js:__ this script deletes all files with the .js extention.  
 
+__19-AZ:__ this script replaces A with Z and c with e.
+
 __21-reverse:__ this script reverses string  
+
 
 __20-hiago:__ this script removes all occurences of the letter c.
