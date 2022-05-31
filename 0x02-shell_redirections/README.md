@@ -17,4 +17,6 @@ __6-third_line:__ this script prints the 3rd line of the file /etc/passwd.
 
 __8-cwd_state:__ this script prints the results of ls -la into a file.  
 
-__9-duplicate_last_line:__ this script duplicates the last line of file _iacta_.
+__9-duplicate_last_line:__ this script duplicates the last line of file _iacta_.  
+
+__10-no_more_js:__ this script deletes all files with the .js extention.
