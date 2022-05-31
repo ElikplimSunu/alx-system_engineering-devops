@@ -7,4 +7,6 @@ __1-confused_smiley:__ this script write "(Ôo)' to the terminal.
 
 __2-hellofile:__ this script writes the details of /etc/passwd to screen.  
 
-__3-twofiles:__ this script prints /etc/passwd and /etc/hosts to screen.
+__3-twofiles:__ this script prints /etc/passwd and /etc/hosts to screen.  
+
+__4-lastlines:__ this script prints the last 10 lines of /etc/passwd
